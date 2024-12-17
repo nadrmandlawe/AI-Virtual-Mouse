@@ -109,8 +109,4 @@ A utility module for hand detection and tracking:
 - Introduce gesture-based application switching.
 - Optimize performance for lower-end machines.
 
----# AI-Virtual-Mouse
-# AI-Virtual-Mouse
-# AI-Virtual-Mouse
-# AI-Virtual-Mouse
-# AI-Virtual-Mouse
+---
